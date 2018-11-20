@@ -1,0 +1,22 @@
+
+header{
+  height: 112px;
+  display:flex ;
+  justify-content: space-between;
+  align-items: center;
+  background-color: sandybrown;
+  .menu_wrapper{
+    nav{
+      a{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: bold;
+        color: #ffffff;
+        text-decoration: none;
+        margin-left: 30px;
+        &:hover{
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}

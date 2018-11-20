@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700");
+header {
+  height: 112px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: sandybrown; }
+  header .menu_wrapper nav a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 30px; }
+    header .menu_wrapper nav a:hover {
+      text-decoration: underline; }
+
+/*# sourceMappingURL=style.css.map */
